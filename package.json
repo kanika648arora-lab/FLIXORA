@@ -1,0 +1,10 @@
+{
+  "name": "flixora",
+  "version": "1.0.0",
+  "description": "FLIXORA — Pure Cinematic Streaming Platform with Pro-Max Animations",
+  "scripts": {
+    "server": "node server/index.js",
+    "client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build"
+  }
+}
